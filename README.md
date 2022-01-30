@@ -1,4 +1,5 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Triyansh jain! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=triyanshjain&label=Profile%20views&color=0e75b6&style=flat" alt="triyanshjain" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 In short ,Tech enthusiast with passion for web development.
@@ -27,10 +28,6 @@ In short ,Tech enthusiast with passion for web development.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=triyanshjain&show_icons=true&locale=en" alt="triyanshjain" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=triyanshjain&" alt="triyanshjain" /></p>
-
-
-
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 
 
